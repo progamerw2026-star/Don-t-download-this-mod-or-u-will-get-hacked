@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "crystalpvphelper",
+  "version": "0.1.0",
+  "name": "Crystal PvP Helper",
+  "description": "Helpers for Crystal PvP.",
+  "authors": [
+    "progamerw2026"
+  ],
+  "contact": {
+    "homepage": "https://github.com/progamerw2026-star/Don-t-download-this-mod-or-u-will-get-hacked"
+  },
+  "license": "MIT",
+  "entrypoints": {
+    "main": [
+      "io.progamerw2026.crystalpvphelper.CrystalPvpHelper"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "java": ">=17"
+  }
+}

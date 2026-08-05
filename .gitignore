@@ -1,0 +1,13 @@
+# Ignore common build / IDE files
+.gradle/
+build/
+out/
+/.idea/
+*.iml
+/.vscode/
+
+# macOS
+.DS_Store
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
